@@ -10,6 +10,7 @@ const dates = [
     "July 30, 2024 (Personality Test)",
     "August 2, 2024",
     "August 8, 2024",
+    "August 12, 2024",
     "August 22, 2024"
     // Add more dates corresponding to each slide
 ];
